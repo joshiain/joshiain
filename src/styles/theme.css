@@ -1,0 +1,28 @@
+:root {
+	--background-color: #f8f8f8;
+	--text-color: #444747;
+	--primary-color: #333;
+	--accent-color: #4d916e;
+	--selection: #76f5cbca;
+}
+
+::selection {
+	background: var(--selection);
+}
+
+#svelte {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: var(--background-color);
+	color: var(--text-color);
+	height: 90vh;
+	width: 100%;
+}
