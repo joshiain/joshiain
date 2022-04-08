@@ -26,7 +26,7 @@
 			<a href="https://instagram.com/joshiain">instagram</a>
 		</li>
 		<li>
-			<a href="mailto:hello@joshiain.com">email</a>
+			<a href="mailto:josh@joshjo.sh">email</a>
 		</li>
 	</ul>
 </section>
