@@ -1,6 +1,6 @@
 <header>
 	<h1>Josh <br /> Carmichael</h1>
-	<p>Data Scientist and Engineer</p>
+	<p>Data Scientist & Engineer</p>
 </header>
 <hr />
 <section>
